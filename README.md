@@ -2,7 +2,7 @@
  * Web site de imagens de animes 
  * Link do projeto na web: [Animg](https://animg.netlify.app/)
  
- 
+ [![animg](https://user-images.githubusercontent.com/110836621/194321271-7662cd82-9cdd-4a18-b493-8ebb69b9288c.png)](https://animg.netlify.app/)
  
  
  * Tecnologias Utilizadas
