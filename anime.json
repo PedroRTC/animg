@@ -1,0 +1,462 @@
+[
+    {
+        "img":"img/naruto01.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu01.webp",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach01.jpg",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece01.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku01.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto02.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu02.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach02.jpg",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece02.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku02.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto03.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu03.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach03.png",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece03.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku03.png",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto04.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu04.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach04.jpg",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece04.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku04.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto05.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu05.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach05.png",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece05.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku05.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto06.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu06.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach06.png",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece06.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku06.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto07.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu07.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach07.jpg",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece07.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku07.png",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto08.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu08.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach08.png",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece08.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku08.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto09.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu09.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach09.jpg",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece09.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku09.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto10.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu10.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach10.jpg",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece10.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku10.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto11.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu11.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach11.jpg",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece11.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku11.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto12.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu12.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/Bleach12.jpg",
+        "nome": "bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece12.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku12.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto13.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu13.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach13.jpg",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece13.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    
+    {
+        "img":"img/boku13.jpg",
+        "nome": "Boku no hero",
+        "nota": "8"
+    },
+
+    {
+        "img":"img/naruto14.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu14.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach14.jpg",
+        "nome": "Bleach",
+        "nota": "9.6"
+    },
+
+    {
+        "img":"img/onepiece14.jpg",
+        "nome": "Onipiece",
+        "nota": "8.8"
+    },
+
+    {
+        "img":"img/naruto15.jpg",
+        "nome": "Naruto",
+        "nota": "9.8"
+    },
+
+    {
+        "img":"img/Jujutsu15.jpg",
+        "nome": "Jujutsu",
+        "nota": "8.1"
+    },
+
+    {
+        "img":"img/bleach15.jpg",
+        "nome": "Bleach",
+        "nota": "9.6"
+    }
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+    
+]
