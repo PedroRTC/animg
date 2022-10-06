@@ -114,7 +114,7 @@ function geraAnime(){
             let sectionImg=document.createElement("div")
             let buttonFecha=document.createElement("button")
             let imgAnime=document.createElement("div")
-            let icones=document.createElement("section")
+            let icones=document.createElement("section") 
 
          
         
