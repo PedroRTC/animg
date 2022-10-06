@@ -106,9 +106,10 @@ function geraAnime(){
         div_animes.appendChild(card_anime)
 
 
-        card_anime.addEventListener("click" , mostraImg)
+        card_anime.addEventListener("click" , mostraImg )
 
         function mostraImg(){
+          
 
             let sectionImg=document.createElement("div")
             let buttonFecha=document.createElement("button")
